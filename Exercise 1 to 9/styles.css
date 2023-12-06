@@ -35,7 +35,7 @@
 }
 
 .float-container {
-    overflow: hidden; /* Clear floats */
+    overflow: hidden;
 }
 
 .float-box {
